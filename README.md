@@ -21,3 +21,7 @@ docker-compose up -d
 ```
 http://localhost:3000/api/seed
 ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/55930935/184145372-85d0a3d3-c114-482a-83c3-50a0cc9b3b84.png)
